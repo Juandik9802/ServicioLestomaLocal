@@ -1,0 +1,432 @@
+2025-03-10 18:25:50,073 - INFO - Servicio Lestoma iniciado correctamente.
+2025-03-10 18:25:56,103 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":28.2,"EmtDht#01Hum":70,"EmtAnemo#01Vel":5,"EmtVlt#01Dir":198.2,"EmtPvt#01Lva":0,"EmtCtLz#01%":6.339}]}
+2025-03-10 18:25:56,103 - INFO - idMedicion generado: c8225ff7-58ce-4d1c-ad47-4616d37f30f5
+2025-03-10 18:25:56,942 - INFO - Datos enviados a la API: {'idMedicion': 'c8225ff7-58ce-4d1c-ad47-4616d37f30f5', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 28.2, 'fecha': '2025-03-10T23:25:56.104Z'}
+2025-03-10 18:25:56,945 - INFO - idMedicion generado: ce53004e-ee7a-4233-8fed-a9f805239736
+2025-03-10 18:25:57,132 - INFO - Datos enviados a la API: {'idMedicion': 'ce53004e-ee7a-4233-8fed-a9f805239736', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 70, 'fecha': '2025-03-10T23:25:56.946Z'}
+2025-03-10 18:25:57,133 - INFO - idMedicion generado: ff169c6e-53fd-4d38-a523-b37d03d02073
+2025-03-10 18:25:57,349 - INFO - Datos enviados a la API: {'idMedicion': 'ff169c6e-53fd-4d38-a523-b37d03d02073', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5, 'fecha': '2025-03-10T23:25:57.133Z'}
+2025-03-10 18:25:57,352 - INFO - idMedicion generado: 8104acab-e708-4908-b432-be6caf2beecf
+2025-03-10 18:25:57,516 - INFO - Datos enviados a la API: {'idMedicion': '8104acab-e708-4908-b432-be6caf2beecf', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 198.2, 'fecha': '2025-03-10T23:25:57.352Z'}
+2025-03-10 18:25:57,518 - INFO - idMedicion generado: 03096cb5-95c0-4e0d-83ed-3c6381f1e896
+2025-03-10 18:25:58,025 - INFO - Datos enviados a la API: {'idMedicion': '03096cb5-95c0-4e0d-83ed-3c6381f1e896', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-10T23:25:57.518Z'}
+2025-03-10 18:25:58,028 - INFO - idMedicion generado: 53c3c429-4e98-4860-ac70-566cac278727
+2025-03-10 18:25:58,303 - INFO - Datos enviados a la API: {'idMedicion': '53c3c429-4e98-4860-ac70-566cac278727', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.339, 'fecha': '2025-03-10T23:25:58.028Z'}
+2025-03-10 18:30:57,816 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":29.7,"EmtDht#01Hum":80,"EmtAnemo#01Vel":4.5,"EmtVlt#01Dir":313.5,"EmtPvt#01Lva":1,"EmtCtLz#01%":1.245}]}
+2025-03-10 18:30:57,817 - INFO - idMedicion generado: ba83dfbf-0fa4-4f05-881a-a848b030d0f9
+2025-03-10 18:30:58,215 - INFO - Datos enviados a la API: {'idMedicion': 'ba83dfbf-0fa4-4f05-881a-a848b030d0f9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 29.7, 'fecha': '2025-03-10T23:30:57.817Z'}
+2025-03-10 18:30:58,216 - INFO - idMedicion generado: a2a023aa-7a07-4c96-a537-5884147ed30e
+2025-03-10 18:30:58,335 - INFO - Datos enviados a la API: {'idMedicion': 'a2a023aa-7a07-4c96-a537-5884147ed30e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 80, 'fecha': '2025-03-10T23:30:58.216Z'}
+2025-03-10 18:30:58,338 - INFO - idMedicion generado: 2a1641af-6b18-4e92-a3b6-fee96ed855bd
+2025-03-10 18:30:58,433 - INFO - Datos enviados a la API: {'idMedicion': '2a1641af-6b18-4e92-a3b6-fee96ed855bd', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.5, 'fecha': '2025-03-10T23:30:58.338Z'}
+2025-03-10 18:30:58,434 - INFO - idMedicion generado: 9d6b1b32-318c-43de-b8a6-948591d8e3b1
+2025-03-10 18:30:58,547 - INFO - Datos enviados a la API: {'idMedicion': '9d6b1b32-318c-43de-b8a6-948591d8e3b1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 313.5, 'fecha': '2025-03-10T23:30:58.434Z'}
+2025-03-10 18:30:58,549 - INFO - idMedicion generado: eeb69438-583a-4c17-95b6-4998a70269a2
+2025-03-10 18:30:58,696 - INFO - Datos enviados a la API: {'idMedicion': 'eeb69438-583a-4c17-95b6-4998a70269a2', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-10T23:30:58.549Z'}
+2025-03-10 18:30:58,698 - INFO - idMedicion generado: 68a5a4b3-b5ff-449e-a07b-2963349b3c15
+2025-03-10 18:30:58,818 - INFO - Datos enviados a la API: {'idMedicion': '68a5a4b3-b5ff-449e-a07b-2963349b3c15', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.245, 'fecha': '2025-03-10T23:30:58.698Z'}
+2025-03-10 18:35:58,255 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":27.5,"EmtDht#01Hum":51,"EmtAnemo#01Vel":4.8,"EmtVlt#01Dir":39.2,"EmtPvt#01Lva":0,"EmtCtLz#01%":2.146}]}
+2025-03-10 18:35:58,255 - INFO - idMedicion generado: b7c307c1-2bab-4ca8-8084-87eb02959cd9
+2025-03-10 18:35:58,413 - INFO - Datos enviados a la API: {'idMedicion': 'b7c307c1-2bab-4ca8-8084-87eb02959cd9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 27.5, 'fecha': '2025-03-10T23:35:58.255Z'}
+2025-03-10 18:35:58,414 - INFO - idMedicion generado: 50ca6142-c4b1-44c8-ba5c-e9177c821cd1
+2025-03-10 18:35:58,593 - INFO - Datos enviados a la API: {'idMedicion': '50ca6142-c4b1-44c8-ba5c-e9177c821cd1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 51, 'fecha': '2025-03-10T23:35:58.414Z'}
+2025-03-10 18:35:58,596 - INFO - idMedicion generado: f00af028-1f36-4552-ad2c-a391607eeffa
+2025-03-10 18:35:58,828 - INFO - Datos enviados a la API: {'idMedicion': 'f00af028-1f36-4552-ad2c-a391607eeffa', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.8, 'fecha': '2025-03-10T23:35:58.597Z'}
+2025-03-10 18:35:58,830 - INFO - idMedicion generado: b9c57060-b24b-4c96-ac92-789194fc6c0c
+2025-03-10 18:35:58,984 - INFO - Datos enviados a la API: {'idMedicion': 'b9c57060-b24b-4c96-ac92-789194fc6c0c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 39.2, 'fecha': '2025-03-10T23:35:58.832Z'}
+2025-03-10 18:35:58,986 - INFO - idMedicion generado: c92fb56f-d88a-48c6-8f2a-1ea0dda466ab
+2025-03-10 18:35:59,211 - INFO - Datos enviados a la API: {'idMedicion': 'c92fb56f-d88a-48c6-8f2a-1ea0dda466ab', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-10T23:35:58.986Z'}
+2025-03-10 18:35:59,212 - INFO - idMedicion generado: b2424385-20f3-4be8-86f9-086ffc44d9a3
+2025-03-10 18:35:59,582 - INFO - Datos enviados a la API: {'idMedicion': 'b2424385-20f3-4be8-86f9-086ffc44d9a3', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.146, 'fecha': '2025-03-10T23:35:59.213Z'}
+2025-03-10 18:40:53,526 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":21.5,"EmtDht#01Hum":89,"EmtAnemo#01Vel":4.2,"EmtVlt#01Dir":179.4,"EmtPvt#01Lva":1,"EmtCtLz#01%":3.399}]}
+2025-03-10 18:40:53,526 - INFO - idMedicion generado: e8936915-948f-4da4-a92b-8cc8d8de8291
+2025-03-10 18:40:53,680 - INFO - Datos enviados a la API: {'idMedicion': 'e8936915-948f-4da4-a92b-8cc8d8de8291', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 21.5, 'fecha': '2025-03-10T23:40:53.526Z'}
+2025-03-10 18:40:53,681 - INFO - idMedicion generado: 53d29bfb-0c53-4dc1-9f87-e438b9f35c88
+2025-03-10 18:40:53,780 - INFO - Datos enviados a la API: {'idMedicion': '53d29bfb-0c53-4dc1-9f87-e438b9f35c88', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 89, 'fecha': '2025-03-10T23:40:53.681Z'}
+2025-03-10 18:40:53,782 - INFO - idMedicion generado: d46f3e65-4db9-4f7b-80e1-f035bf4ef954
+2025-03-10 18:40:53,899 - INFO - Datos enviados a la API: {'idMedicion': 'd46f3e65-4db9-4f7b-80e1-f035bf4ef954', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.2, 'fecha': '2025-03-10T23:40:53.782Z'}
+2025-03-10 18:40:53,902 - INFO - idMedicion generado: 2829d676-a416-406f-8be8-948d7d5c2666
+2025-03-10 18:40:54,037 - INFO - Datos enviados a la API: {'idMedicion': '2829d676-a416-406f-8be8-948d7d5c2666', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 179.4, 'fecha': '2025-03-10T23:40:53.902Z'}
+2025-03-10 18:40:54,038 - INFO - idMedicion generado: 42aadee6-1cc0-4eff-a255-a384bde8acd9
+2025-03-10 18:40:54,145 - INFO - Datos enviados a la API: {'idMedicion': '42aadee6-1cc0-4eff-a255-a384bde8acd9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-10T23:40:54.039Z'}
+2025-03-10 18:40:54,147 - INFO - idMedicion generado: b2ece9f6-ca7f-466b-baa3-330924153627
+2025-03-10 18:40:54,429 - INFO - Datos enviados a la API: {'idMedicion': 'b2ece9f6-ca7f-466b-baa3-330924153627', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3.399, 'fecha': '2025-03-10T23:40:54.147Z'}
+2025-03-10 18:45:53,938 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":26.2,"EmtDht#01Hum":59,"EmtAnemo#01Vel":5.2,"EmtVlt#01Dir":95.9,"EmtPvt#01Lva":1,"EmtCtLz#01%":7.837}]}
+2025-03-10 18:45:53,938 - INFO - idMedicion generado: 0fbdd2bb-f052-4c19-badb-2e0b7eb95acc
+2025-03-10 18:45:54,156 - INFO - Datos enviados a la API: {'idMedicion': '0fbdd2bb-f052-4c19-badb-2e0b7eb95acc', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 26.2, 'fecha': '2025-03-10T23:45:53.939Z'}
+2025-03-10 18:45:54,158 - INFO - idMedicion generado: f6065cbc-fd97-4c61-b3a8-c06f11b81e3d
+2025-03-10 18:45:54,261 - INFO - Datos enviados a la API: {'idMedicion': 'f6065cbc-fd97-4c61-b3a8-c06f11b81e3d', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 59, 'fecha': '2025-03-10T23:45:54.158Z'}
+2025-03-10 18:45:54,264 - INFO - idMedicion generado: b826fec9-8250-4ac9-8894-9a613103541b
+2025-03-10 18:45:54,809 - INFO - Datos enviados a la API: {'idMedicion': 'b826fec9-8250-4ac9-8894-9a613103541b', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.2, 'fecha': '2025-03-10T23:45:54.265Z'}
+2025-03-10 18:45:54,811 - INFO - idMedicion generado: 80515a9e-ea99-4dd6-8338-724f7cf56a10
+2025-03-10 18:45:54,993 - INFO - Datos enviados a la API: {'idMedicion': '80515a9e-ea99-4dd6-8338-724f7cf56a10', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 95.9, 'fecha': '2025-03-10T23:45:54.811Z'}
+2025-03-10 18:45:54,996 - INFO - idMedicion generado: eb840bb8-f58a-4679-a386-5a4a183da4eb
+2025-03-10 18:45:55,146 - INFO - Datos enviados a la API: {'idMedicion': 'eb840bb8-f58a-4679-a386-5a4a183da4eb', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-10T23:45:54.996Z'}
+2025-03-10 18:45:55,148 - INFO - idMedicion generado: d21372ba-623c-4e0d-879c-0c3f2f8f900c
+2025-03-10 18:45:55,278 - INFO - Datos enviados a la API: {'idMedicion': 'd21372ba-623c-4e0d-879c-0c3f2f8f900c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 7.837, 'fecha': '2025-03-10T23:45:55.148Z'}
+2025-03-10 18:50:54,728 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":25.4,"EmtDht#01Hum":65,"EmtAnemo#01Vel":1.8,"EmtVlt#01Dir":64.2,"EmtPvt#01Lva":0,"EmtCtLz#01%":5.673}]}
+2025-03-10 18:50:54,728 - INFO - idMedicion generado: 93871aef-c010-4a63-9160-8e0db52a1d3a
+2025-03-10 18:50:54,914 - INFO - Datos enviados a la API: {'idMedicion': '93871aef-c010-4a63-9160-8e0db52a1d3a', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 25.4, 'fecha': '2025-03-10T23:50:54.728Z'}
+2025-03-10 18:50:54,915 - INFO - idMedicion generado: 5571c38c-a31e-4525-ab7a-f2c4f9ebaa7c
+2025-03-10 18:50:55,047 - INFO - Datos enviados a la API: {'idMedicion': '5571c38c-a31e-4525-ab7a-f2c4f9ebaa7c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 65, 'fecha': '2025-03-10T23:50:54.915Z'}
+2025-03-10 18:50:55,049 - INFO - idMedicion generado: d114b902-8cf0-4fbd-8ec7-15e07a27b681
+2025-03-10 18:50:55,139 - INFO - Datos enviados a la API: {'idMedicion': 'd114b902-8cf0-4fbd-8ec7-15e07a27b681', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.8, 'fecha': '2025-03-10T23:50:55.050Z'}
+2025-03-10 18:50:55,141 - INFO - idMedicion generado: d431ee87-b47a-4fbe-949a-db3d3feb4902
+2025-03-10 18:50:55,267 - INFO - Datos enviados a la API: {'idMedicion': 'd431ee87-b47a-4fbe-949a-db3d3feb4902', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 64.2, 'fecha': '2025-03-10T23:50:55.142Z'}
+2025-03-10 18:50:55,268 - INFO - idMedicion generado: f2ea957c-fddb-4e79-a3dc-e8c3668efec2
+2025-03-10 18:50:55,378 - INFO - Datos enviados a la API: {'idMedicion': 'f2ea957c-fddb-4e79-a3dc-e8c3668efec2', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-10T23:50:55.270Z'}
+2025-03-10 18:50:55,379 - INFO - idMedicion generado: 2a41c199-e540-4bc8-942e-12d219f808dd
+2025-03-10 18:50:55,477 - INFO - Datos enviados a la API: {'idMedicion': '2a41c199-e540-4bc8-942e-12d219f808dd', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.673, 'fecha': '2025-03-10T23:50:55.379Z'}
+2025-03-10 18:55:55,120 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":16.3,"EmtDht#01Hum":80,"EmtAnemo#01Vel":5.8,"EmtVlt#01Dir":77.7,"EmtPvt#01Lva":1,"EmtCtLz#01%":1.017}]}
+2025-03-10 18:55:55,121 - INFO - idMedicion generado: 0111eeb4-feec-4317-8f43-17dd624d2797
+2025-03-10 18:55:56,863 - INFO - Datos enviados a la API: {'idMedicion': '0111eeb4-feec-4317-8f43-17dd624d2797', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 16.3, 'fecha': '2025-03-10T23:55:55.121Z'}
+2025-03-10 18:55:56,866 - INFO - idMedicion generado: 028071e9-bb0f-4d29-83e1-5cbb3b82440e
+2025-03-10 18:55:57,227 - INFO - Datos enviados a la API: {'idMedicion': '028071e9-bb0f-4d29-83e1-5cbb3b82440e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 80, 'fecha': '2025-03-10T23:55:56.866Z'}
+2025-03-10 18:55:57,229 - INFO - idMedicion generado: 6b367f91-e2e8-4333-be66-8ea01836a93e
+2025-03-10 18:55:57,744 - INFO - Datos enviados a la API: {'idMedicion': '6b367f91-e2e8-4333-be66-8ea01836a93e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.8, 'fecha': '2025-03-10T23:55:57.229Z'}
+2025-03-10 18:55:57,747 - INFO - idMedicion generado: 309a4dd8-7864-4576-b6e6-2b5103209152
+2025-03-10 18:55:58,027 - INFO - Datos enviados a la API: {'idMedicion': '309a4dd8-7864-4576-b6e6-2b5103209152', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 77.7, 'fecha': '2025-03-10T23:55:57.748Z'}
+2025-03-10 18:55:58,031 - INFO - idMedicion generado: 55fc16a3-31bb-4ee2-8a3f-359b755ea66a
+2025-03-10 18:55:58,202 - INFO - Datos enviados a la API: {'idMedicion': '55fc16a3-31bb-4ee2-8a3f-359b755ea66a', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-10T23:55:58.031Z'}
+2025-03-10 18:55:58,203 - INFO - idMedicion generado: 84e1aabd-62f6-4a55-a4ab-e7eeb09dccb0
+2025-03-10 18:55:58,321 - INFO - Datos enviados a la API: {'idMedicion': '84e1aabd-62f6-4a55-a4ab-e7eeb09dccb0', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.017, 'fecha': '2025-03-10T23:55:58.204Z'}
+2025-03-10 19:00:57,801 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":26.3,"EmtDht#01Hum":60,"EmtAnemo#01Vel":0,"EmtVlt#01Dir":324.8,"EmtPvt#01Lva":0,"EmtCtLz#01%":3.484}]}
+2025-03-10 19:00:57,801 - INFO - idMedicion generado: cc589589-43f3-469b-af7b-b462e0885de5
+2025-03-10 19:00:58,055 - INFO - Datos enviados a la API: {'idMedicion': 'cc589589-43f3-469b-af7b-b462e0885de5', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 26.3, 'fecha': '2025-03-11T00:00:57.801Z'}
+2025-03-10 19:00:58,057 - INFO - idMedicion generado: 139fee14-6e05-4d0c-bdb6-080f0ceeabe7
+2025-03-10 19:00:58,191 - INFO - Datos enviados a la API: {'idMedicion': '139fee14-6e05-4d0c-bdb6-080f0ceeabe7', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 60, 'fecha': '2025-03-11T00:00:58.058Z'}
+2025-03-10 19:00:58,192 - INFO - idMedicion generado: 5a025141-e4a1-44bd-9cb9-d08c1427507f
+2025-03-10 19:00:58,311 - INFO - Datos enviados a la API: {'idMedicion': '5a025141-e4a1-44bd-9cb9-d08c1427507f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:00:58.192Z'}
+2025-03-10 19:00:58,314 - INFO - idMedicion generado: ec2ae78c-dbaa-400e-b33c-a2edfd800bc5
+2025-03-10 19:00:58,534 - INFO - Datos enviados a la API: {'idMedicion': 'ec2ae78c-dbaa-400e-b33c-a2edfd800bc5', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 324.8, 'fecha': '2025-03-11T00:00:58.315Z'}
+2025-03-10 19:00:58,536 - INFO - idMedicion generado: d1c4cdac-abf4-4bca-b5d4-43a955eadd93
+2025-03-10 19:00:59,153 - INFO - Datos enviados a la API: {'idMedicion': 'd1c4cdac-abf4-4bca-b5d4-43a955eadd93', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:00:58.537Z'}
+2025-03-10 19:00:59,154 - INFO - idMedicion generado: b9212d28-daea-454e-9f39-f866e58da5f6
+2025-03-10 19:00:59,306 - INFO - Datos enviados a la API: {'idMedicion': 'b9212d28-daea-454e-9f39-f866e58da5f6', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3.484, 'fecha': '2025-03-11T00:00:59.155Z'}
+2025-03-10 19:05:53,541 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":20.8,"EmtDht#01Hum":71,"EmtAnemo#01Vel":2.1,"EmtVlt#01Dir":167.6,"EmtPvt#01Lva":0,"EmtCtLz#01%":9.89}]}
+2025-03-10 19:05:53,541 - INFO - idMedicion generado: 4834ba23-a683-4be4-9745-07e85dae9184
+2025-03-10 19:05:53,849 - INFO - Datos enviados a la API: {'idMedicion': '4834ba23-a683-4be4-9745-07e85dae9184', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 20.8, 'fecha': '2025-03-11T00:05:53.541Z'}
+2025-03-10 19:05:53,851 - INFO - idMedicion generado: 86d4e912-03f0-4038-8747-c9430513840f
+2025-03-10 19:05:53,975 - INFO - Datos enviados a la API: {'idMedicion': '86d4e912-03f0-4038-8747-c9430513840f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 71, 'fecha': '2025-03-11T00:05:53.851Z'}
+2025-03-10 19:05:53,978 - INFO - idMedicion generado: 0522006b-ab8d-4e29-be65-712566d9b6b7
+2025-03-10 19:05:54,152 - INFO - Datos enviados a la API: {'idMedicion': '0522006b-ab8d-4e29-be65-712566d9b6b7', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.1, 'fecha': '2025-03-11T00:05:53.979Z'}
+2025-03-10 19:05:54,153 - INFO - idMedicion generado: dd5e07ce-3119-4670-8b59-69a22e202f00
+2025-03-10 19:05:54,303 - INFO - Datos enviados a la API: {'idMedicion': 'dd5e07ce-3119-4670-8b59-69a22e202f00', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 167.6, 'fecha': '2025-03-11T00:05:54.153Z'}
+2025-03-10 19:05:54,305 - INFO - idMedicion generado: 1b3e8721-a6c8-4eb1-bbca-b87310f056a3
+2025-03-10 19:05:54,438 - INFO - Datos enviados a la API: {'idMedicion': '1b3e8721-a6c8-4eb1-bbca-b87310f056a3', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:05:54.305Z'}
+2025-03-10 19:05:54,442 - INFO - idMedicion generado: 83b9376c-8bd6-41e9-9d5a-1d8b0d84cc1b
+2025-03-10 19:05:54,559 - INFO - Datos enviados a la API: {'idMedicion': '83b9376c-8bd6-41e9-9d5a-1d8b0d84cc1b', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.89, 'fecha': '2025-03-11T00:05:54.442Z'}
+2025-03-10 19:10:54,017 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":24.9,"EmtDht#01Hum":54,"EmtAnemo#01Vel":1.8,"EmtVlt#01Dir":276.8,"EmtPvt#01Lva":1,"EmtCtLz#01%":7.367}]}
+2025-03-10 19:10:54,017 - INFO - idMedicion generado: fcc393fe-ac54-4611-aa7b-992ec4a9c2bb
+2025-03-10 19:10:54,455 - INFO - Datos enviados a la API: {'idMedicion': 'fcc393fe-ac54-4611-aa7b-992ec4a9c2bb', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 24.9, 'fecha': '2025-03-11T00:10:54.017Z'}
+2025-03-10 19:10:54,460 - INFO - idMedicion generado: 208f90f8-d444-41d4-9edb-ba04e5d1f399
+2025-03-10 19:10:54,588 - INFO - Datos enviados a la API: {'idMedicion': '208f90f8-d444-41d4-9edb-ba04e5d1f399', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 54, 'fecha': '2025-03-11T00:10:54.461Z'}
+2025-03-10 19:10:54,591 - INFO - idMedicion generado: dff78840-62d7-49b7-879a-a856b2077393
+2025-03-10 19:10:54,737 - INFO - Datos enviados a la API: {'idMedicion': 'dff78840-62d7-49b7-879a-a856b2077393', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.8, 'fecha': '2025-03-11T00:10:54.591Z'}
+2025-03-10 19:10:54,739 - INFO - idMedicion generado: 2928034a-2970-46cb-8a9b-0568be4d72a0
+2025-03-10 19:10:54,851 - INFO - Datos enviados a la API: {'idMedicion': '2928034a-2970-46cb-8a9b-0568be4d72a0', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 276.8, 'fecha': '2025-03-11T00:10:54.740Z'}
+2025-03-10 19:10:54,852 - INFO - idMedicion generado: 10f719f5-c4e8-4e17-b318-9ce830a53fc8
+2025-03-10 19:10:54,970 - INFO - Datos enviados a la API: {'idMedicion': '10f719f5-c4e8-4e17-b318-9ce830a53fc8', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T00:10:54.852Z'}
+2025-03-10 19:10:54,972 - INFO - idMedicion generado: 155f4da8-fa45-4592-9763-e8efed80bce9
+2025-03-10 19:10:55,073 - INFO - Datos enviados a la API: {'idMedicion': '155f4da8-fa45-4592-9763-e8efed80bce9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 7.367, 'fecha': '2025-03-11T00:10:54.972Z'}
+2025-03-10 19:15:54,566 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":26.4,"EmtDht#01Hum":74,"EmtAnemo#01Vel":4.8,"EmtVlt#01Dir":120.1,"EmtPvt#01Lva":0,"EmtCtLz#01%":3.463}]}
+2025-03-10 19:15:54,567 - INFO - idMedicion generado: 70052dd1-6ce1-4c47-bf8e-79a9d4791024
+2025-03-10 19:15:54,802 - INFO - Datos enviados a la API: {'idMedicion': '70052dd1-6ce1-4c47-bf8e-79a9d4791024', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 26.4, 'fecha': '2025-03-11T00:15:54.567Z'}
+2025-03-10 19:15:54,803 - INFO - idMedicion generado: 8e3856e3-5470-4ff2-8f51-bfdab425db70
+2025-03-10 19:15:54,886 - INFO - Datos enviados a la API: {'idMedicion': '8e3856e3-5470-4ff2-8f51-bfdab425db70', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 74, 'fecha': '2025-03-11T00:15:54.803Z'}
+2025-03-10 19:15:54,888 - INFO - idMedicion generado: 1abfe049-2708-4d74-85a4-0265eeb034a4
+2025-03-10 19:15:54,970 - INFO - Datos enviados a la API: {'idMedicion': '1abfe049-2708-4d74-85a4-0265eeb034a4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.8, 'fecha': '2025-03-11T00:15:54.889Z'}
+2025-03-10 19:15:54,971 - INFO - idMedicion generado: 6f39c11e-772e-464c-a091-22a81f66a63e
+2025-03-10 19:15:55,063 - INFO - Datos enviados a la API: {'idMedicion': '6f39c11e-772e-464c-a091-22a81f66a63e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 120.1, 'fecha': '2025-03-11T00:15:54.972Z'}
+2025-03-10 19:15:55,065 - INFO - idMedicion generado: d4eca538-bb3e-4412-8b2c-33cb8af45c5a
+2025-03-10 19:15:55,151 - INFO - Datos enviados a la API: {'idMedicion': 'd4eca538-bb3e-4412-8b2c-33cb8af45c5a', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:15:55.065Z'}
+2025-03-10 19:15:55,153 - INFO - idMedicion generado: e638369e-ac30-49ed-bc84-f6b0372ae56e
+2025-03-10 19:15:55,265 - INFO - Datos enviados a la API: {'idMedicion': 'e638369e-ac30-49ed-bc84-f6b0372ae56e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3.463, 'fecha': '2025-03-11T00:15:55.153Z'}
+2025-03-10 19:20:54,733 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":14.4,"EmtDht#01Hum":48,"EmtAnemo#01Vel":1.7,"EmtVlt#01Dir":224,"EmtPvt#01Lva":0,"EmtCtLz#01%":8.498}]}
+2025-03-10 19:20:54,734 - INFO - idMedicion generado: 94f69f1f-8f14-4666-845f-4711e2306306
+2025-03-10 19:20:54,902 - INFO - Datos enviados a la API: {'idMedicion': '94f69f1f-8f14-4666-845f-4711e2306306', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 14.4, 'fecha': '2025-03-11T00:20:54.734Z'}
+2025-03-10 19:20:54,904 - INFO - idMedicion generado: 36817b9a-9160-4a22-be96-25e9d2fc694e
+2025-03-10 19:20:55,043 - INFO - Datos enviados a la API: {'idMedicion': '36817b9a-9160-4a22-be96-25e9d2fc694e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 48, 'fecha': '2025-03-11T00:20:54.904Z'}
+2025-03-10 19:20:55,045 - INFO - idMedicion generado: 05ba41cc-723a-41ca-9725-47fedc075bf8
+2025-03-10 19:20:55,151 - INFO - Datos enviados a la API: {'idMedicion': '05ba41cc-723a-41ca-9725-47fedc075bf8', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.7, 'fecha': '2025-03-11T00:20:55.045Z'}
+2025-03-10 19:20:55,154 - INFO - idMedicion generado: e894ab2d-175f-459b-9ad7-6cdf1d6b4ad0
+2025-03-10 19:20:55,271 - INFO - Datos enviados a la API: {'idMedicion': 'e894ab2d-175f-459b-9ad7-6cdf1d6b4ad0', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 224, 'fecha': '2025-03-11T00:20:55.154Z'}
+2025-03-10 19:20:55,273 - INFO - idMedicion generado: b57844f8-b9c3-46c4-b760-579d5d5d1ddd
+2025-03-10 19:20:55,522 - INFO - Datos enviados a la API: {'idMedicion': 'b57844f8-b9c3-46c4-b760-579d5d5d1ddd', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:20:55.273Z'}
+2025-03-10 19:20:55,524 - INFO - idMedicion generado: 797ee596-0846-4b31-a7e1-ddc8ca026fd1
+2025-03-10 19:20:55,668 - INFO - Datos enviados a la API: {'idMedicion': '797ee596-0846-4b31-a7e1-ddc8ca026fd1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 8.498, 'fecha': '2025-03-11T00:20:55.524Z'}
+2025-03-10 19:25:55,072 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":21.3,"EmtDht#01Hum":42,"EmtAnemo#01Vel":1.5,"EmtVlt#01Dir":109.2,"EmtPvt#01Lva":0,"EmtCtLz#01%":6.644}]}
+2025-03-10 19:25:55,072 - INFO - idMedicion generado: 2c0ea67c-557c-4480-8aa7-131e0b27176e
+2025-03-10 19:25:55,287 - INFO - Datos enviados a la API: {'idMedicion': '2c0ea67c-557c-4480-8aa7-131e0b27176e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 21.3, 'fecha': '2025-03-11T00:25:55.072Z'}
+2025-03-10 19:25:55,291 - INFO - idMedicion generado: 3da1c74c-9102-4e4a-a7a9-892b73e344a4
+2025-03-10 19:25:55,431 - INFO - Datos enviados a la API: {'idMedicion': '3da1c74c-9102-4e4a-a7a9-892b73e344a4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 42, 'fecha': '2025-03-11T00:25:55.291Z'}
+2025-03-10 19:25:55,434 - INFO - idMedicion generado: bebee969-ff1f-409a-91f3-59ca137891b2
+2025-03-10 19:25:55,574 - INFO - Datos enviados a la API: {'idMedicion': 'bebee969-ff1f-409a-91f3-59ca137891b2', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.5, 'fecha': '2025-03-11T00:25:55.434Z'}
+2025-03-10 19:25:55,575 - INFO - idMedicion generado: c7ec2672-9e94-4d8c-9794-89fcbae07c10
+2025-03-10 19:25:55,677 - INFO - Datos enviados a la API: {'idMedicion': 'c7ec2672-9e94-4d8c-9794-89fcbae07c10', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 109.2, 'fecha': '2025-03-11T00:25:55.575Z'}
+2025-03-10 19:25:55,680 - INFO - idMedicion generado: e0e2b91d-c2a9-48b9-9988-96480bb2c8f3
+2025-03-10 19:25:55,819 - INFO - Datos enviados a la API: {'idMedicion': 'e0e2b91d-c2a9-48b9-9988-96480bb2c8f3', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:25:55.680Z'}
+2025-03-10 19:25:55,821 - INFO - idMedicion generado: 16632080-fa0f-44e5-a455-89362001a641
+2025-03-10 19:25:55,949 - INFO - Datos enviados a la API: {'idMedicion': '16632080-fa0f-44e5-a455-89362001a641', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.644, 'fecha': '2025-03-11T00:25:55.822Z'}
+2025-03-10 19:30:55,462 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":25.2,"EmtDht#01Hum":43,"EmtAnemo#01Vel":2.1,"EmtVlt#01Dir":233,"EmtPvt#01Lva":0,"EmtCtLz#01%":9.288}]}
+2025-03-10 19:30:55,462 - INFO - idMedicion generado: 89a79f69-b26a-48ab-b136-2c593c92f419
+2025-03-10 19:30:55,653 - INFO - Datos enviados a la API: {'idMedicion': '89a79f69-b26a-48ab-b136-2c593c92f419', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 25.2, 'fecha': '2025-03-11T00:30:55.463Z'}
+2025-03-10 19:30:55,655 - INFO - idMedicion generado: 9cae885b-6436-49ff-9dc3-cad89a9bceb8
+2025-03-10 19:30:55,762 - INFO - Datos enviados a la API: {'idMedicion': '9cae885b-6436-49ff-9dc3-cad89a9bceb8', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 43, 'fecha': '2025-03-11T00:30:55.655Z'}
+2025-03-10 19:30:55,764 - INFO - idMedicion generado: 4fddd3fb-dbd9-4f76-9503-06502d2e45cc
+2025-03-10 19:30:55,894 - INFO - Datos enviados a la API: {'idMedicion': '4fddd3fb-dbd9-4f76-9503-06502d2e45cc', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.1, 'fecha': '2025-03-11T00:30:55.764Z'}
+2025-03-10 19:30:55,897 - INFO - idMedicion generado: 275bd401-e3e3-40b4-9167-8825edc57985
+2025-03-10 19:30:56,002 - INFO - Datos enviados a la API: {'idMedicion': '275bd401-e3e3-40b4-9167-8825edc57985', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 233, 'fecha': '2025-03-11T00:30:55.897Z'}
+2025-03-10 19:30:56,004 - INFO - idMedicion generado: d40c1bc9-5817-44b8-b196-97cf569b48a4
+2025-03-10 19:30:56,128 - INFO - Datos enviados a la API: {'idMedicion': 'd40c1bc9-5817-44b8-b196-97cf569b48a4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:30:56.005Z'}
+2025-03-10 19:30:56,131 - INFO - idMedicion generado: 59af2f91-4823-48b5-896d-9b85cd256696
+2025-03-10 19:30:56,239 - INFO - Datos enviados a la API: {'idMedicion': '59af2f91-4823-48b5-896d-9b85cd256696', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.288, 'fecha': '2025-03-11T00:30:56.132Z'}
+2025-03-10 19:35:55,717 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":25.6,"EmtDht#01Hum":51,"EmtAnemo#01Vel":5.6,"EmtVlt#01Dir":75.3,"EmtPvt#01Lva":0,"EmtCtLz#01%":3.009}]}
+2025-03-10 19:35:55,717 - INFO - idMedicion generado: b3f5f085-3f8d-4d1b-944b-14a601b29390
+2025-03-10 19:35:55,947 - INFO - Datos enviados a la API: {'idMedicion': 'b3f5f085-3f8d-4d1b-944b-14a601b29390', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 25.6, 'fecha': '2025-03-11T00:35:55.718Z'}
+2025-03-10 19:35:55,948 - INFO - idMedicion generado: afa08fa9-2a96-4912-add2-9153acaae156
+2025-03-10 19:35:56,064 - INFO - Datos enviados a la API: {'idMedicion': 'afa08fa9-2a96-4912-add2-9153acaae156', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 51, 'fecha': '2025-03-11T00:35:55.949Z'}
+2025-03-10 19:35:56,066 - INFO - idMedicion generado: 20d10855-c90c-4280-a681-a1e81022f281
+2025-03-10 19:35:56,169 - INFO - Datos enviados a la API: {'idMedicion': '20d10855-c90c-4280-a681-a1e81022f281', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.6, 'fecha': '2025-03-11T00:35:56.066Z'}
+2025-03-10 19:35:56,172 - INFO - idMedicion generado: 4dc73190-690b-483c-8e39-fcc649e02ef7
+2025-03-10 19:35:56,253 - INFO - Datos enviados a la API: {'idMedicion': '4dc73190-690b-483c-8e39-fcc649e02ef7', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 75.3, 'fecha': '2025-03-11T00:35:56.172Z'}
+2025-03-10 19:35:56,255 - INFO - idMedicion generado: e5a7a8a3-353f-45a4-bc0c-ee5ea959d259
+2025-03-10 19:35:56,373 - INFO - Datos enviados a la API: {'idMedicion': 'e5a7a8a3-353f-45a4-bc0c-ee5ea959d259', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:35:56.255Z'}
+2025-03-10 19:35:56,375 - INFO - idMedicion generado: 27eb4bf0-9ddb-4ec2-b8f9-1822810fe9a6
+2025-03-10 19:35:56,839 - INFO - Datos enviados a la API: {'idMedicion': '27eb4bf0-9ddb-4ec2-b8f9-1822810fe9a6', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3.009, 'fecha': '2025-03-11T00:35:56.376Z'}
+2025-03-10 19:40:56,211 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":22.2,"EmtDht#01Hum":45,"EmtAnemo#01Vel":4.9,"EmtVlt#01Dir":236.1,"EmtPvt#01Lva":0,"EmtCtLz#01%":6.152}]}
+2025-03-10 19:40:56,212 - INFO - idMedicion generado: a0415388-2632-4894-8cb2-028daaaef2fc
+2025-03-10 19:40:56,442 - INFO - Datos enviados a la API: {'idMedicion': 'a0415388-2632-4894-8cb2-028daaaef2fc', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 22.2, 'fecha': '2025-03-11T00:40:56.212Z'}
+2025-03-10 19:40:56,444 - INFO - idMedicion generado: 2bfe6282-703b-4a48-8476-c6167c5bc21e
+2025-03-10 19:40:56,547 - INFO - Datos enviados a la API: {'idMedicion': '2bfe6282-703b-4a48-8476-c6167c5bc21e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 45, 'fecha': '2025-03-11T00:40:56.444Z'}
+2025-03-10 19:40:56,549 - INFO - idMedicion generado: e558f2cb-4965-40e2-ab41-98a45cceba0f
+2025-03-10 19:40:56,658 - INFO - Datos enviados a la API: {'idMedicion': 'e558f2cb-4965-40e2-ab41-98a45cceba0f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.9, 'fecha': '2025-03-11T00:40:56.549Z'}
+2025-03-10 19:40:56,660 - INFO - idMedicion generado: 060d98ac-2c8d-4638-9263-c3f8f21df314
+2025-03-10 19:40:56,769 - INFO - Datos enviados a la API: {'idMedicion': '060d98ac-2c8d-4638-9263-c3f8f21df314', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 236.1, 'fecha': '2025-03-11T00:40:56.660Z'}
+2025-03-10 19:40:56,770 - INFO - idMedicion generado: abfaa98b-6806-402f-8e08-860c35039f5f
+2025-03-10 19:40:56,912 - INFO - Datos enviados a la API: {'idMedicion': 'abfaa98b-6806-402f-8e08-860c35039f5f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:40:56.770Z'}
+2025-03-10 19:40:56,913 - INFO - idMedicion generado: 2bcdff1f-8e89-411f-ab22-f2ace5ae1f2f
+2025-03-10 19:40:57,039 - INFO - Datos enviados a la API: {'idMedicion': '2bcdff1f-8e89-411f-ab22-f2ace5ae1f2f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.152, 'fecha': '2025-03-11T00:40:56.914Z'}
+2025-03-10 19:45:56,478 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":24.5,"EmtDht#01Hum":64,"EmtAnemo#01Vel":3.4,"EmtVlt#01Dir":339.8,"EmtPvt#01Lva":0,"EmtCtLz#01%":4.94}]}
+2025-03-10 19:45:56,479 - INFO - idMedicion generado: 52d395ed-e2cd-4884-8ef3-01ae2bc18f6c
+2025-03-10 19:45:56,691 - INFO - Datos enviados a la API: {'idMedicion': '52d395ed-e2cd-4884-8ef3-01ae2bc18f6c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 24.5, 'fecha': '2025-03-11T00:45:56.479Z'}
+2025-03-10 19:45:56,694 - INFO - idMedicion generado: c4d223c1-1b24-4afc-b584-4987285eb53b
+2025-03-10 19:45:56,769 - INFO - Datos enviados a la API: {'idMedicion': 'c4d223c1-1b24-4afc-b584-4987285eb53b', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 64, 'fecha': '2025-03-11T00:45:56.694Z'}
+2025-03-10 19:45:56,772 - INFO - idMedicion generado: ef21d34e-e69c-478e-8b69-2d8e5229cdb2
+2025-03-10 19:45:56,843 - INFO - Datos enviados a la API: {'idMedicion': 'ef21d34e-e69c-478e-8b69-2d8e5229cdb2', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3.4, 'fecha': '2025-03-11T00:45:56.772Z'}
+2025-03-10 19:45:56,844 - INFO - idMedicion generado: a9a1133a-9bb8-45cc-bd3e-b2f116f02441
+2025-03-10 19:45:56,915 - INFO - Datos enviados a la API: {'idMedicion': 'a9a1133a-9bb8-45cc-bd3e-b2f116f02441', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 339.8, 'fecha': '2025-03-11T00:45:56.845Z'}
+2025-03-10 19:45:56,917 - INFO - idMedicion generado: 8db80e23-3efb-4e5a-bf1c-3d5d96daaf02
+2025-03-10 19:45:57,009 - INFO - Datos enviados a la API: {'idMedicion': '8db80e23-3efb-4e5a-bf1c-3d5d96daaf02', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T00:45:56.917Z'}
+2025-03-10 19:45:57,012 - INFO - idMedicion generado: b36bee1e-544a-4816-bebf-3b1418a21fa5
+2025-03-10 19:45:57,104 - INFO - Datos enviados a la API: {'idMedicion': 'b36bee1e-544a-4816-bebf-3b1418a21fa5', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.94, 'fecha': '2025-03-11T00:45:57.012Z'}
+2025-03-10 19:50:56,233 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":17.4,"EmtDht#01Hum":76,"EmtAnemo#01Vel":2.6,"EmtVlt#01Dir":316.3,"EmtPvt#01Lva":1,"EmtCtLz#01%":5.227}]}
+2025-03-10 19:50:56,233 - INFO - idMedicion generado: 2a08954f-18db-4ab5-8da3-c387610fc19a
+2025-03-10 19:50:56,436 - INFO - Datos enviados a la API: {'idMedicion': '2a08954f-18db-4ab5-8da3-c387610fc19a', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 17.4, 'fecha': '2025-03-11T00:50:56.234Z'}
+2025-03-10 19:50:56,438 - INFO - idMedicion generado: 97d72cdd-4350-4dd5-92ed-6c0fd0f1c83e
+2025-03-10 19:50:56,730 - INFO - Datos enviados a la API: {'idMedicion': '97d72cdd-4350-4dd5-92ed-6c0fd0f1c83e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 76, 'fecha': '2025-03-11T00:50:56.439Z'}
+2025-03-10 19:50:56,731 - INFO - idMedicion generado: 7aa5cc05-92c8-4cae-9661-04a46dbb17ac
+2025-03-10 19:50:57,436 - INFO - Datos enviados a la API: {'idMedicion': '7aa5cc05-92c8-4cae-9661-04a46dbb17ac', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.6, 'fecha': '2025-03-11T00:50:56.732Z'}
+2025-03-10 19:50:57,439 - INFO - idMedicion generado: 2e682857-0608-471c-9d84-f45d2691109c
+2025-03-10 19:50:57,834 - INFO - Datos enviados a la API: {'idMedicion': '2e682857-0608-471c-9d84-f45d2691109c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 316.3, 'fecha': '2025-03-11T00:50:57.439Z'}
+2025-03-10 19:50:57,837 - INFO - idMedicion generado: 3095731d-3b3e-4018-8087-998b554f49e4
+2025-03-10 19:50:58,011 - INFO - Datos enviados a la API: {'idMedicion': '3095731d-3b3e-4018-8087-998b554f49e4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T00:50:57.837Z'}
+2025-03-10 19:50:58,014 - INFO - idMedicion generado: 9ad29b70-07fe-4af1-a367-dce4d548e81d
+2025-03-10 19:50:58,177 - INFO - Datos enviados a la API: {'idMedicion': '9ad29b70-07fe-4af1-a367-dce4d548e81d', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.227, 'fecha': '2025-03-11T00:50:58.015Z'}
+2025-03-10 19:55:57,662 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":11.2,"EmtDht#01Hum":61,"EmtAnemo#01Vel":4.5,"EmtVlt#01Dir":327.2,"EmtPvt#01Lva":1,"EmtCtLz#01%":6.547}]}
+2025-03-10 19:55:57,662 - INFO - idMedicion generado: 371b3398-f6d2-458f-a855-20ab349ca51a
+2025-03-10 19:55:57,896 - INFO - Datos enviados a la API: {'idMedicion': '371b3398-f6d2-458f-a855-20ab349ca51a', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 11.2, 'fecha': '2025-03-11T00:55:57.662Z'}
+2025-03-10 19:55:57,898 - INFO - idMedicion generado: 8088bd50-a1a7-40f1-af3d-a9acacce2477
+2025-03-10 19:55:57,993 - INFO - Datos enviados a la API: {'idMedicion': '8088bd50-a1a7-40f1-af3d-a9acacce2477', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 61, 'fecha': '2025-03-11T00:55:57.898Z'}
+2025-03-10 19:55:57,995 - INFO - idMedicion generado: 63673989-6ccf-47ed-a54b-5040dab579a4
+2025-03-10 19:55:58,132 - INFO - Datos enviados a la API: {'idMedicion': '63673989-6ccf-47ed-a54b-5040dab579a4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.5, 'fecha': '2025-03-11T00:55:57.995Z'}
+2025-03-10 19:55:58,135 - INFO - idMedicion generado: eb4eaabb-039e-46f9-a2d8-a2a4d0574d54
+2025-03-10 19:55:58,429 - INFO - Datos enviados a la API: {'idMedicion': 'eb4eaabb-039e-46f9-a2d8-a2a4d0574d54', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 327.2, 'fecha': '2025-03-11T00:55:58.135Z'}
+2025-03-10 19:55:58,431 - INFO - idMedicion generado: aeee6859-760f-466d-8e85-7cd899ed8cb7
+2025-03-10 19:55:58,563 - INFO - Datos enviados a la API: {'idMedicion': 'aeee6859-760f-466d-8e85-7cd899ed8cb7', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T00:55:58.431Z'}
+2025-03-10 19:55:58,565 - INFO - idMedicion generado: c71fab6f-786a-4faa-b070-c99c78bd767e
+2025-03-10 19:55:58,673 - INFO - Datos enviados a la API: {'idMedicion': 'c71fab6f-786a-4faa-b070-c99c78bd767e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.547, 'fecha': '2025-03-11T00:55:58.565Z'}
+2025-03-10 20:00:58,153 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":23.7,"EmtDht#01Hum":81,"EmtAnemo#01Vel":3,"EmtVlt#01Dir":345.9,"EmtPvt#01Lva":0,"EmtCtLz#01%":9.994}]}
+2025-03-10 20:00:58,153 - INFO - idMedicion generado: 9b2c3594-b81f-4f48-91fb-7a3838a11bed
+2025-03-10 20:00:58,305 - INFO - Datos enviados a la API: {'idMedicion': '9b2c3594-b81f-4f48-91fb-7a3838a11bed', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 23.7, 'fecha': '2025-03-11T01:00:58.153Z'}
+2025-03-10 20:00:58,307 - INFO - idMedicion generado: dacf968b-069f-44cc-8e1e-3f27a4005550
+2025-03-10 20:00:58,387 - INFO - Datos enviados a la API: {'idMedicion': 'dacf968b-069f-44cc-8e1e-3f27a4005550', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 81, 'fecha': '2025-03-11T01:00:58.307Z'}
+2025-03-10 20:00:58,388 - INFO - idMedicion generado: 2500a9fc-fd6d-46d3-b037-f8dd1241c81e
+2025-03-10 20:00:58,470 - INFO - Datos enviados a la API: {'idMedicion': '2500a9fc-fd6d-46d3-b037-f8dd1241c81e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3, 'fecha': '2025-03-11T01:00:58.388Z'}
+2025-03-10 20:00:58,472 - INFO - idMedicion generado: ce4e333a-2db1-4309-9960-cd1d20a15142
+2025-03-10 20:00:58,543 - INFO - Datos enviados a la API: {'idMedicion': 'ce4e333a-2db1-4309-9960-cd1d20a15142', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 345.9, 'fecha': '2025-03-11T01:00:58.472Z'}
+2025-03-10 20:00:58,545 - INFO - idMedicion generado: 98b18b39-d44e-4a71-869c-aead8bd9fde1
+2025-03-10 20:00:58,630 - INFO - Datos enviados a la API: {'idMedicion': '98b18b39-d44e-4a71-869c-aead8bd9fde1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T01:00:58.545Z'}
+2025-03-10 20:00:58,631 - INFO - idMedicion generado: 51e674b1-dc13-40a3-93ab-1d0d6fc34e9f
+2025-03-10 20:00:58,747 - INFO - Datos enviados a la API: {'idMedicion': '51e674b1-dc13-40a3-93ab-1d0d6fc34e9f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.994, 'fecha': '2025-03-11T01:00:58.632Z'}
+2025-03-10 20:05:58,190 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":28.1,"EmtDht#01Hum":71,"EmtAnemo#01Vel":5.3,"EmtVlt#01Dir":209,"EmtPvt#01Lva":0,"EmtCtLz#01%":9.636}]}
+2025-03-10 20:05:58,190 - INFO - idMedicion generado: 0e65caa6-df63-48f1-bc00-c4e3ebf1a3d1
+2025-03-10 20:05:58,380 - INFO - Datos enviados a la API: {'idMedicion': '0e65caa6-df63-48f1-bc00-c4e3ebf1a3d1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 28.1, 'fecha': '2025-03-11T01:05:58.190Z'}
+2025-03-10 20:05:58,381 - INFO - idMedicion generado: daa96283-aab9-440d-b07c-8c684a8122db
+2025-03-10 20:05:58,487 - INFO - Datos enviados a la API: {'idMedicion': 'daa96283-aab9-440d-b07c-8c684a8122db', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 71, 'fecha': '2025-03-11T01:05:58.381Z'}
+2025-03-10 20:05:58,488 - INFO - idMedicion generado: 4d0ce7fb-b5d3-4d72-8fc6-7ef862c042ca
+2025-03-10 20:05:58,581 - INFO - Datos enviados a la API: {'idMedicion': '4d0ce7fb-b5d3-4d72-8fc6-7ef862c042ca', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.3, 'fecha': '2025-03-11T01:05:58.488Z'}
+2025-03-10 20:05:58,583 - INFO - idMedicion generado: 412801d2-b0cf-4c9d-bb50-1366f06e773d
+2025-03-10 20:05:58,679 - INFO - Datos enviados a la API: {'idMedicion': '412801d2-b0cf-4c9d-bb50-1366f06e773d', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 209, 'fecha': '2025-03-11T01:05:58.583Z'}
+2025-03-10 20:05:58,680 - INFO - idMedicion generado: 4b877c58-f4df-439b-a4c8-767eb3aed7d1
+2025-03-10 20:05:58,799 - INFO - Datos enviados a la API: {'idMedicion': '4b877c58-f4df-439b-a4c8-767eb3aed7d1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T01:05:58.680Z'}
+2025-03-10 20:05:58,801 - INFO - idMedicion generado: fa3665e6-35e2-4b5d-b12c-c6b1f9e5fbeb
+2025-03-10 20:05:58,894 - INFO - Datos enviados a la API: {'idMedicion': 'fa3665e6-35e2-4b5d-b12c-c6b1f9e5fbeb', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.636, 'fecha': '2025-03-11T01:05:58.801Z'}
+2025-03-10 20:10:58,278 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":18.4,"EmtDht#01Hum":67,"EmtAnemo#01Vel":0.5,"EmtVlt#01Dir":168.2,"EmtPvt#01Lva":1,"EmtCtLz#01%":9.176}]}
+2025-03-10 20:10:58,278 - INFO - idMedicion generado: 58663815-867e-42a5-8475-3dfaf3910dc6
+2025-03-10 20:10:58,441 - INFO - Datos enviados a la API: {'idMedicion': '58663815-867e-42a5-8475-3dfaf3910dc6', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 18.4, 'fecha': '2025-03-11T01:10:58.279Z'}
+2025-03-10 20:10:58,443 - INFO - idMedicion generado: 5992a074-069a-4426-b372-e14da0d1edb1
+2025-03-10 20:10:58,544 - INFO - Datos enviados a la API: {'idMedicion': '5992a074-069a-4426-b372-e14da0d1edb1', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 67, 'fecha': '2025-03-11T01:10:58.444Z'}
+2025-03-10 20:10:58,547 - INFO - idMedicion generado: f62a363b-dc6a-4bfd-9fb4-e88146795c80
+2025-03-10 20:10:58,660 - INFO - Datos enviados a la API: {'idMedicion': 'f62a363b-dc6a-4bfd-9fb4-e88146795c80', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0.5, 'fecha': '2025-03-11T01:10:58.547Z'}
+2025-03-10 20:10:58,662 - INFO - idMedicion generado: 7b0796aa-1ecf-4a25-8e9e-2b443814e22d
+2025-03-10 20:10:58,873 - INFO - Datos enviados a la API: {'idMedicion': '7b0796aa-1ecf-4a25-8e9e-2b443814e22d', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 168.2, 'fecha': '2025-03-11T01:10:58.662Z'}
+2025-03-10 20:10:58,876 - INFO - idMedicion generado: 89c3f401-28cd-4b0c-a8f3-452c21d4b7c9
+2025-03-10 20:10:59,018 - INFO - Datos enviados a la API: {'idMedicion': '89c3f401-28cd-4b0c-a8f3-452c21d4b7c9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:10:58.876Z'}
+2025-03-10 20:10:59,021 - INFO - idMedicion generado: 4369c50d-c120-45f9-84f3-a4d60634fc92
+2025-03-10 20:10:59,163 - INFO - Datos enviados a la API: {'idMedicion': '4369c50d-c120-45f9-84f3-a4d60634fc92', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.176, 'fecha': '2025-03-11T01:10:59.021Z'}
+2025-03-10 20:15:58,631 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":20,"EmtDht#01Hum":54,"EmtAnemo#01Vel":5.9,"EmtVlt#01Dir":152.4,"EmtPvt#01Lva":1,"EmtCtLz#01%":1.833}]}
+2025-03-10 20:15:58,631 - INFO - idMedicion generado: ba9c32b2-ad07-49c3-a9a0-808ab21bb4ce
+2025-03-10 20:15:59,065 - INFO - Datos enviados a la API: {'idMedicion': 'ba9c32b2-ad07-49c3-a9a0-808ab21bb4ce', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 20, 'fecha': '2025-03-11T01:15:58.631Z'}
+2025-03-10 20:15:59,066 - INFO - idMedicion generado: 09eb4631-d93e-49b4-a68f-3bc330d82f50
+2025-03-10 20:15:59,314 - INFO - Datos enviados a la API: {'idMedicion': '09eb4631-d93e-49b4-a68f-3bc330d82f50', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 54, 'fecha': '2025-03-11T01:15:59.067Z'}
+2025-03-10 20:15:59,317 - INFO - idMedicion generado: e2185469-5e26-4578-8c99-71d5bc390f52
+2025-03-10 20:15:59,487 - INFO - Datos enviados a la API: {'idMedicion': 'e2185469-5e26-4578-8c99-71d5bc390f52', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.9, 'fecha': '2025-03-11T01:15:59.318Z'}
+2025-03-10 20:15:59,489 - INFO - idMedicion generado: d2ad2aa1-a32a-4f66-a06e-e9469f25cf14
+2025-03-10 20:15:59,779 - INFO - Datos enviados a la API: {'idMedicion': 'd2ad2aa1-a32a-4f66-a06e-e9469f25cf14', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 152.4, 'fecha': '2025-03-11T01:15:59.489Z'}
+2025-03-10 20:15:59,780 - INFO - idMedicion generado: 425e66a8-1693-46cf-a3f6-e2b559149402
+2025-03-10 20:15:59,924 - INFO - Datos enviados a la API: {'idMedicion': '425e66a8-1693-46cf-a3f6-e2b559149402', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:15:59.781Z'}
+2025-03-10 20:15:59,927 - INFO - idMedicion generado: 060413ce-f810-4e6c-9784-f42d82148935
+2025-03-10 20:16:00,090 - INFO - Datos enviados a la API: {'idMedicion': '060413ce-f810-4e6c-9784-f42d82148935', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.833, 'fecha': '2025-03-11T01:15:59.927Z'}
+2025-03-10 20:20:53,887 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":16.4,"EmtDht#01Hum":83,"EmtAnemo#01Vel":2.6,"EmtVlt#01Dir":285.5,"EmtPvt#01Lva":0,"EmtCtLz#01%":7.476}]}
+2025-03-10 20:20:53,888 - INFO - idMedicion generado: 4f385538-72a4-407f-aea8-15dcb88332e7
+2025-03-10 20:20:54,114 - INFO - Datos enviados a la API: {'idMedicion': '4f385538-72a4-407f-aea8-15dcb88332e7', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 16.4, 'fecha': '2025-03-11T01:20:53.888Z'}
+2025-03-10 20:20:54,116 - INFO - idMedicion generado: efa1e3ef-05b8-40a4-a5f9-e95530143f44
+2025-03-10 20:20:54,197 - INFO - Datos enviados a la API: {'idMedicion': 'efa1e3ef-05b8-40a4-a5f9-e95530143f44', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 83, 'fecha': '2025-03-11T01:20:54.116Z'}
+2025-03-10 20:20:54,198 - INFO - idMedicion generado: 6cb30c2d-6640-4c45-8eb6-a2e0f2157a48
+2025-03-10 20:20:54,370 - INFO - Datos enviados a la API: {'idMedicion': '6cb30c2d-6640-4c45-8eb6-a2e0f2157a48', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.6, 'fecha': '2025-03-11T01:20:54.198Z'}
+2025-03-10 20:20:54,372 - INFO - idMedicion generado: e199d61c-f75e-4aed-acd2-1c684e73cb82
+2025-03-10 20:20:54,463 - INFO - Datos enviados a la API: {'idMedicion': 'e199d61c-f75e-4aed-acd2-1c684e73cb82', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 285.5, 'fecha': '2025-03-11T01:20:54.372Z'}
+2025-03-10 20:20:54,465 - INFO - idMedicion generado: 89785d41-ce0a-4efd-9733-68dd6c54ae47
+2025-03-10 20:20:54,545 - INFO - Datos enviados a la API: {'idMedicion': '89785d41-ce0a-4efd-9733-68dd6c54ae47', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T01:20:54.465Z'}
+2025-03-10 20:20:54,546 - INFO - idMedicion generado: b849dee1-50f3-4d76-a7b2-514dd5ff6bd3
+2025-03-10 20:20:54,631 - INFO - Datos enviados a la API: {'idMedicion': 'b849dee1-50f3-4d76-a7b2-514dd5ff6bd3', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 7.476, 'fecha': '2025-03-11T01:20:54.547Z'}
+2025-03-10 20:25:54,107 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":15.7,"EmtDht#01Hum":62,"EmtAnemo#01Vel":2.5,"EmtVlt#01Dir":141.1,"EmtPvt#01Lva":0,"EmtCtLz#01%":6.234}]}
+2025-03-10 20:25:54,108 - INFO - idMedicion generado: 79ae7774-9d83-4a22-af78-4a2503b0201c
+2025-03-10 20:25:54,258 - INFO - Datos enviados a la API: {'idMedicion': '79ae7774-9d83-4a22-af78-4a2503b0201c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 15.7, 'fecha': '2025-03-11T01:25:54.108Z'}
+2025-03-10 20:25:54,259 - INFO - idMedicion generado: bbf293c1-65a3-4a93-8184-bee75f3088a9
+2025-03-10 20:25:54,331 - INFO - Datos enviados a la API: {'idMedicion': 'bbf293c1-65a3-4a93-8184-bee75f3088a9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 62, 'fecha': '2025-03-11T01:25:54.259Z'}
+2025-03-10 20:25:54,333 - INFO - idMedicion generado: eeb8e6dc-8396-4bc1-adb5-1736a9700b90
+2025-03-10 20:25:54,474 - INFO - Datos enviados a la API: {'idMedicion': 'eeb8e6dc-8396-4bc1-adb5-1736a9700b90', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.5, 'fecha': '2025-03-11T01:25:54.334Z'}
+2025-03-10 20:25:54,475 - INFO - idMedicion generado: b83b14c1-ae15-40af-8720-8b8ce6ebe0f5
+2025-03-10 20:25:54,572 - INFO - Datos enviados a la API: {'idMedicion': 'b83b14c1-ae15-40af-8720-8b8ce6ebe0f5', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 141.1, 'fecha': '2025-03-11T01:25:54.475Z'}
+2025-03-10 20:25:54,574 - INFO - idMedicion generado: 8dccc553-8eaa-4133-8312-d3108d97ef2c
+2025-03-10 20:25:54,645 - INFO - Datos enviados a la API: {'idMedicion': '8dccc553-8eaa-4133-8312-d3108d97ef2c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T01:25:54.574Z'}
+2025-03-10 20:25:54,645 - INFO - idMedicion generado: 886eb669-1eed-4619-8ebb-9a0971f9c282
+2025-03-10 20:25:54,728 - INFO - Datos enviados a la API: {'idMedicion': '886eb669-1eed-4619-8ebb-9a0971f9c282', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.234, 'fecha': '2025-03-11T01:25:54.645Z'}
+2025-03-10 20:30:54,168 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":21.4,"EmtDht#01Hum":83,"EmtAnemo#01Vel":3.1,"EmtVlt#01Dir":202,"EmtPvt#01Lva":1,"EmtCtLz#01%":9.194}]}
+2025-03-10 20:30:54,168 - INFO - idMedicion generado: 785b0f12-acb6-4352-b476-1a91853960d0
+2025-03-10 20:30:54,359 - INFO - Datos enviados a la API: {'idMedicion': '785b0f12-acb6-4352-b476-1a91853960d0', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 21.4, 'fecha': '2025-03-11T01:30:54.169Z'}
+2025-03-10 20:30:54,361 - INFO - idMedicion generado: 001c7956-e3c0-47bc-bcc3-2fee1087c239
+2025-03-10 20:30:54,447 - INFO - Datos enviados a la API: {'idMedicion': '001c7956-e3c0-47bc-bcc3-2fee1087c239', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 83, 'fecha': '2025-03-11T01:30:54.362Z'}
+2025-03-10 20:30:54,448 - INFO - idMedicion generado: 7b325017-0901-4f05-a321-e8d518d9c055
+2025-03-10 20:30:54,500 - INFO - Datos enviados a la API: {'idMedicion': '7b325017-0901-4f05-a321-e8d518d9c055', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 3.1, 'fecha': '2025-03-11T01:30:54.449Z'}
+2025-03-10 20:30:54,501 - INFO - idMedicion generado: cfe13039-0c00-43c1-86c4-8f5457736e7f
+2025-03-10 20:30:54,577 - INFO - Datos enviados a la API: {'idMedicion': 'cfe13039-0c00-43c1-86c4-8f5457736e7f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 202, 'fecha': '2025-03-11T01:30:54.501Z'}
+2025-03-10 20:30:54,579 - INFO - idMedicion generado: 7a3edbae-b476-4155-b2d0-bdad82632eda
+2025-03-10 20:30:54,672 - INFO - Datos enviados a la API: {'idMedicion': '7a3edbae-b476-4155-b2d0-bdad82632eda', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:30:54.579Z'}
+2025-03-10 20:30:54,673 - INFO - idMedicion generado: dfbf6f4e-b802-4434-975c-3b426945b29f
+2025-03-10 20:30:54,770 - INFO - Datos enviados a la API: {'idMedicion': 'dfbf6f4e-b802-4434-975c-3b426945b29f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.194, 'fecha': '2025-03-11T01:30:54.673Z'}
+2025-03-10 20:35:54,226 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":11.2,"EmtDht#01Hum":78,"EmtAnemo#01Vel":5.1,"EmtVlt#01Dir":98,"EmtPvt#01Lva":1,"EmtCtLz#01%":2.77}]}
+2025-03-10 20:35:54,226 - INFO - idMedicion generado: c610279c-c249-40be-93c3-e5b07424290c
+2025-03-10 20:35:54,411 - INFO - Datos enviados a la API: {'idMedicion': 'c610279c-c249-40be-93c3-e5b07424290c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 11.2, 'fecha': '2025-03-11T01:35:54.226Z'}
+2025-03-10 20:35:54,413 - INFO - idMedicion generado: cfa17f6a-f9d0-4ca4-bf4a-5c2530684d03
+2025-03-10 20:35:54,496 - INFO - Datos enviados a la API: {'idMedicion': 'cfa17f6a-f9d0-4ca4-bf4a-5c2530684d03', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 78, 'fecha': '2025-03-11T01:35:54.413Z'}
+2025-03-10 20:35:54,498 - INFO - idMedicion generado: 433c6622-418e-4e27-84fd-902b1f801c10
+2025-03-10 20:35:54,594 - INFO - Datos enviados a la API: {'idMedicion': '433c6622-418e-4e27-84fd-902b1f801c10', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.1, 'fecha': '2025-03-11T01:35:54.498Z'}
+2025-03-10 20:35:54,595 - INFO - idMedicion generado: 6a328082-897e-40cd-bcdb-8ae46b77d8fc
+2025-03-10 20:35:54,658 - INFO - Datos enviados a la API: {'idMedicion': '6a328082-897e-40cd-bcdb-8ae46b77d8fc', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 98, 'fecha': '2025-03-11T01:35:54.595Z'}
+2025-03-10 20:35:54,659 - INFO - idMedicion generado: 4e23c697-28b4-4f03-99f5-2af19c794580
+2025-03-10 20:35:54,743 - INFO - Datos enviados a la API: {'idMedicion': '4e23c697-28b4-4f03-99f5-2af19c794580', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:35:54.659Z'}
+2025-03-10 20:35:54,744 - INFO - idMedicion generado: e2628146-bd52-4fef-b365-89baf0057285
+2025-03-10 20:35:54,830 - INFO - Datos enviados a la API: {'idMedicion': 'e2628146-bd52-4fef-b365-89baf0057285', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.77, 'fecha': '2025-03-11T01:35:54.744Z'}
+2025-03-10 20:40:54,302 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":24.5,"EmtDht#01Hum":58,"EmtAnemo#01Vel":0.1,"EmtVlt#01Dir":257.7,"EmtPvt#01Lva":1,"EmtCtLz#01%":5.509}]}
+2025-03-10 20:40:54,302 - INFO - idMedicion generado: 968db368-c427-4c5c-aade-0e9c20341351
+2025-03-10 20:40:54,456 - INFO - Datos enviados a la API: {'idMedicion': '968db368-c427-4c5c-aade-0e9c20341351', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 24.5, 'fecha': '2025-03-11T01:40:54.303Z'}
+2025-03-10 20:40:54,458 - INFO - idMedicion generado: b6e08b6f-4598-4a74-8db2-2e5b89127ae4
+2025-03-10 20:40:54,538 - INFO - Datos enviados a la API: {'idMedicion': 'b6e08b6f-4598-4a74-8db2-2e5b89127ae4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 58, 'fecha': '2025-03-11T01:40:54.458Z'}
+2025-03-10 20:40:54,539 - INFO - idMedicion generado: 2ea97390-c042-473c-851f-18c71f53d7e5
+2025-03-10 20:40:54,607 - INFO - Datos enviados a la API: {'idMedicion': '2ea97390-c042-473c-851f-18c71f53d7e5', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0.1, 'fecha': '2025-03-11T01:40:54.539Z'}
+2025-03-10 20:40:54,608 - INFO - idMedicion generado: fdf54a56-e853-464e-89d9-0191e3edf2fe
+2025-03-10 20:40:54,677 - INFO - Datos enviados a la API: {'idMedicion': 'fdf54a56-e853-464e-89d9-0191e3edf2fe', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 257.7, 'fecha': '2025-03-11T01:40:54.608Z'}
+2025-03-10 20:40:54,679 - INFO - idMedicion generado: e5f69e57-7b47-4b59-8a61-4ce75603f27e
+2025-03-10 20:40:54,753 - INFO - Datos enviados a la API: {'idMedicion': 'e5f69e57-7b47-4b59-8a61-4ce75603f27e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:40:54.679Z'}
+2025-03-10 20:40:54,754 - INFO - idMedicion generado: e9022f44-e8eb-44ff-9436-c3ae906c7c50
+2025-03-10 20:40:54,831 - INFO - Datos enviados a la API: {'idMedicion': 'e9022f44-e8eb-44ff-9436-c3ae906c7c50', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.509, 'fecha': '2025-03-11T01:40:54.754Z'}
+2025-03-10 20:45:54,259 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":24.9,"EmtDht#01Hum":41,"EmtAnemo#01Vel":0,"EmtVlt#01Dir":220.1,"EmtPvt#01Lva":1,"EmtCtLz#01%":1.651}]}
+2025-03-10 20:45:54,260 - INFO - idMedicion generado: f1c89a5a-2397-4c00-88ea-9b9d315f113c
+2025-03-10 20:45:54,446 - INFO - Datos enviados a la API: {'idMedicion': 'f1c89a5a-2397-4c00-88ea-9b9d315f113c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 24.9, 'fecha': '2025-03-11T01:45:54.260Z'}
+2025-03-10 20:45:54,448 - INFO - idMedicion generado: 66fb7f1c-9e72-42c1-997f-49350ec24dfc
+2025-03-10 20:45:54,546 - INFO - Datos enviados a la API: {'idMedicion': '66fb7f1c-9e72-42c1-997f-49350ec24dfc', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 41, 'fecha': '2025-03-11T01:45:54.448Z'}
+2025-03-10 20:45:54,548 - INFO - idMedicion generado: cdb69c61-1870-44ae-ae24-5d02992b0ba7
+2025-03-10 20:45:54,793 - INFO - Datos enviados a la API: {'idMedicion': 'cdb69c61-1870-44ae-ae24-5d02992b0ba7', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 0, 'fecha': '2025-03-11T01:45:54.548Z'}
+2025-03-10 20:45:54,795 - INFO - idMedicion generado: 70baa4b2-d883-4a32-8d0e-071f0f912295
+2025-03-10 20:45:55,293 - INFO - Datos enviados a la API: {'idMedicion': '70baa4b2-d883-4a32-8d0e-071f0f912295', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 220.1, 'fecha': '2025-03-11T01:45:54.796Z'}
+2025-03-10 20:45:55,296 - INFO - idMedicion generado: c743e662-1691-480a-a699-0e7c6ee8f45d
+2025-03-10 20:45:55,429 - INFO - Datos enviados a la API: {'idMedicion': 'c743e662-1691-480a-a699-0e7c6ee8f45d', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:45:55.296Z'}
+2025-03-10 20:45:55,432 - INFO - idMedicion generado: 7da06f9e-d460-4ef8-a2f4-b0966e0a2bc9
+2025-03-10 20:45:55,598 - INFO - Datos enviados a la API: {'idMedicion': '7da06f9e-d460-4ef8-a2f4-b0966e0a2bc9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.651, 'fecha': '2025-03-11T01:45:55.432Z'}
+2025-03-10 20:50:55,036 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":13.8,"EmtDht#01Hum":73,"EmtAnemo#01Vel":4.4,"EmtVlt#01Dir":271.6,"EmtPvt#01Lva":1,"EmtCtLz#01%":6.898}]}
+2025-03-10 20:50:55,036 - INFO - idMedicion generado: 0ec95f1c-217e-4590-9142-9065d122842f
+2025-03-10 20:50:55,352 - INFO - Datos enviados a la API: {'idMedicion': '0ec95f1c-217e-4590-9142-9065d122842f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 13.8, 'fecha': '2025-03-11T01:50:55.036Z'}
+2025-03-10 20:50:55,354 - INFO - idMedicion generado: ac614f0a-1b7c-41a4-840b-35b1c2e913ad
+2025-03-10 20:50:55,575 - INFO - Datos enviados a la API: {'idMedicion': 'ac614f0a-1b7c-41a4-840b-35b1c2e913ad', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 73, 'fecha': '2025-03-11T01:50:55.354Z'}
+2025-03-10 20:50:55,578 - INFO - idMedicion generado: f82b2186-3328-48a1-a217-33bfb8513129
+2025-03-10 20:50:56,066 - INFO - Datos enviados a la API: {'idMedicion': 'f82b2186-3328-48a1-a217-33bfb8513129', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 4.4, 'fecha': '2025-03-11T01:50:55.578Z'}
+2025-03-10 20:50:56,067 - INFO - idMedicion generado: 2ca2da3c-ecf4-4454-bed1-cf98d6445d73
+2025-03-10 20:50:56,268 - INFO - Datos enviados a la API: {'idMedicion': '2ca2da3c-ecf4-4454-bed1-cf98d6445d73', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 271.6, 'fecha': '2025-03-11T01:50:56.067Z'}
+2025-03-10 20:50:56,273 - INFO - idMedicion generado: 6de6c490-ec6e-452d-a2ae-587ebbbe8527
+2025-03-10 20:50:56,456 - INFO - Datos enviados a la API: {'idMedicion': '6de6c490-ec6e-452d-a2ae-587ebbbe8527', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:50:56.274Z'}
+2025-03-10 20:50:56,458 - INFO - idMedicion generado: b67ed52a-44db-40dc-9343-b4bb1cef8c00
+2025-03-10 20:50:56,595 - INFO - Datos enviados a la API: {'idMedicion': 'b67ed52a-44db-40dc-9343-b4bb1cef8c00', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.898, 'fecha': '2025-03-11T01:50:56.459Z'}
+2025-03-10 20:55:56,073 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":16.1,"EmtDht#01Hum":53,"EmtAnemo#01Vel":2.2,"EmtVlt#01Dir":357.1,"EmtPvt#01Lva":1,"EmtCtLz#01%":6.461}]}
+2025-03-10 20:55:56,073 - INFO - idMedicion generado: 52271aa2-9ce2-4473-994b-ffd028d328cd
+2025-03-10 20:55:56,316 - INFO - Datos enviados a la API: {'idMedicion': '52271aa2-9ce2-4473-994b-ffd028d328cd', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 16.1, 'fecha': '2025-03-11T01:55:56.073Z'}
+2025-03-10 20:55:56,319 - INFO - idMedicion generado: b91c005c-6abf-4d2a-8dc6-4f762a493d89
+2025-03-10 20:55:56,423 - INFO - Datos enviados a la API: {'idMedicion': 'b91c005c-6abf-4d2a-8dc6-4f762a493d89', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 53, 'fecha': '2025-03-11T01:55:56.319Z'}
+2025-03-10 20:55:56,425 - INFO - idMedicion generado: 2805ab9b-fd21-44b1-8d16-940ac91fa91e
+2025-03-10 20:55:56,526 - INFO - Datos enviados a la API: {'idMedicion': '2805ab9b-fd21-44b1-8d16-940ac91fa91e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 2.2, 'fecha': '2025-03-11T01:55:56.425Z'}
+2025-03-10 20:55:56,528 - INFO - idMedicion generado: ffbe15c7-ba25-47af-933d-0d694c942d14
+2025-03-10 20:55:56,715 - INFO - Datos enviados a la API: {'idMedicion': 'ffbe15c7-ba25-47af-933d-0d694c942d14', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 357.1, 'fecha': '2025-03-11T01:55:56.529Z'}
+2025-03-10 20:55:56,717 - INFO - idMedicion generado: dcdf2645-cd8a-46b4-9978-075dac77e2f3
+2025-03-10 20:55:56,847 - INFO - Datos enviados a la API: {'idMedicion': 'dcdf2645-cd8a-46b4-9978-075dac77e2f3', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T01:55:56.717Z'}
+2025-03-10 20:55:56,849 - INFO - idMedicion generado: 731d92c4-d179-4c25-a569-d8ad423d05b4
+2025-03-10 20:55:57,005 - INFO - Datos enviados a la API: {'idMedicion': '731d92c4-d179-4c25-a569-d8ad423d05b4', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 6.461, 'fecha': '2025-03-11T01:55:56.850Z'}
+2025-03-10 21:00:56,433 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":20.5,"EmtDht#01Hum":60,"EmtAnemo#01Vel":1.9,"EmtVlt#01Dir":310,"EmtPvt#01Lva":1,"EmtCtLz#01%":7.408}]}
+2025-03-10 21:00:56,433 - INFO - idMedicion generado: 16c19525-17b4-4808-b2bb-3bcb7e4c02ce
+2025-03-10 21:00:56,685 - INFO - Datos enviados a la API: {'idMedicion': '16c19525-17b4-4808-b2bb-3bcb7e4c02ce', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 20.5, 'fecha': '2025-03-11T02:00:56.433Z'}
+2025-03-10 21:00:56,687 - INFO - idMedicion generado: 085f453e-1695-4bf3-b296-3ae3a98e9e5f
+2025-03-10 21:00:56,839 - INFO - Datos enviados a la API: {'idMedicion': '085f453e-1695-4bf3-b296-3ae3a98e9e5f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 60, 'fecha': '2025-03-11T02:00:56.687Z'}
+2025-03-10 21:00:56,840 - INFO - idMedicion generado: 798c6f8e-d642-4733-85d9-b02a4f6150b9
+2025-03-10 21:00:57,103 - INFO - Datos enviados a la API: {'idMedicion': '798c6f8e-d642-4733-85d9-b02a4f6150b9', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1.9, 'fecha': '2025-03-11T02:00:56.840Z'}
+2025-03-10 21:00:57,106 - INFO - idMedicion generado: 37cedd39-f947-4191-a065-6fcc2b468d3e
+2025-03-10 21:00:57,325 - INFO - Datos enviados a la API: {'idMedicion': '37cedd39-f947-4191-a065-6fcc2b468d3e', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 310, 'fecha': '2025-03-11T02:00:57.107Z'}
+2025-03-10 21:00:57,327 - INFO - idMedicion generado: 6c4d33c2-3c26-4939-914a-71c762346880
+2025-03-10 21:00:57,542 - INFO - Datos enviados a la API: {'idMedicion': '6c4d33c2-3c26-4939-914a-71c762346880', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T02:00:57.327Z'}
+2025-03-10 21:00:57,545 - INFO - idMedicion generado: 938ff5df-c0ea-4b94-882e-773bbc13d96c
+2025-03-10 21:00:57,805 - INFO - Datos enviados a la API: {'idMedicion': '938ff5df-c0ea-4b94-882e-773bbc13d96c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 7.408, 'fecha': '2025-03-11T02:00:57.546Z'}
+2025-03-10 21:05:57,378 - INFO - JSON recibido: {"Tipo_Com":1,"Dir_Esclavo":1,"Funcion":"Read","Dir_Registro":0,"EstacionMetereologica":[{"EmtDht#01Temp":24.4,"EmtDht#01Hum":72,"EmtAnemo#01Vel":5.1,"EmtVlt#01Dir":124.1,"EmtPvt#01Lva":1,"EmtCtLz#01%":9.058}]}
+2025-03-10 21:05:57,378 - INFO - idMedicion generado: 3e840564-71a3-451b-af45-c8172e034a25
+2025-03-10 21:05:59,469 - INFO - Datos enviados a la API: {'idMedicion': '3e840564-71a3-451b-af45-c8172e034a25', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 24.4, 'fecha': '2025-03-11T02:05:57.378Z'}
+2025-03-10 21:05:59,475 - INFO - idMedicion generado: 8ab2cc20-d5da-4a56-ae25-331669268a62
+2025-03-10 21:06:01,279 - INFO - Datos enviados a la API: {'idMedicion': '8ab2cc20-d5da-4a56-ae25-331669268a62', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 72, 'fecha': '2025-03-11T02:05:59.476Z'}
+2025-03-10 21:06:01,282 - INFO - idMedicion generado: b1ab38a5-1293-4af3-a4b0-7d093d1d320b
+2025-03-10 21:06:03,665 - INFO - Datos enviados a la API: {'idMedicion': 'b1ab38a5-1293-4af3-a4b0-7d093d1d320b', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 5.1, 'fecha': '2025-03-11T02:06:01.282Z'}
+2025-03-10 21:06:03,667 - INFO - idMedicion generado: 82960e4f-7881-4089-94f9-554d6a9bd09f
+2025-03-10 21:06:03,859 - INFO - Datos enviados a la API: {'idMedicion': '82960e4f-7881-4089-94f9-554d6a9bd09f', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 124.1, 'fecha': '2025-03-11T02:06:03.667Z'}
+2025-03-10 21:06:03,860 - INFO - idMedicion generado: 0e848528-98bd-4ba8-bc2f-2bc070012a23
+2025-03-10 21:06:04,364 - INFO - Datos enviados a la API: {'idMedicion': '0e848528-98bd-4ba8-bc2f-2bc070012a23', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 1, 'fecha': '2025-03-11T02:06:03.861Z'}
+2025-03-10 21:06:04,366 - INFO - idMedicion generado: 0b35eec4-1fbb-428c-a2f7-2eee0db23e4c
+2025-03-10 21:06:05,244 - INFO - Datos enviados a la API: {'idMedicion': '0b35eec4-1fbb-428c-a2f7-2eee0db23e4c', 'dispositivoId': '3430a8e1-d7d8-4c62-86bf-fba0cd412662', 'unidadMedidaId': '1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d', 'valor': 9.058, 'fecha': '2025-03-11T02:06:04.366Z'}
+2025-04-09 21:03:32,468 - ERROR - No se pudo abrir el puerto serial COM4: could not open port 'COM4': FileNotFoundError(2, 'El sistema no puede encontrar el archivo especificado.', None, 2)
+2025-04-09 22:18:29,031 - INFO - Servicio Lestoma detenido correctamente.

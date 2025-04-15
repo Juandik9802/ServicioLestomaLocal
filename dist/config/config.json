@@ -1,0 +1,10 @@
+{
+  "puerto_serial": "COM4",
+  "baud_rate": 115200,
+  "api_url": "https://localhost:7150/api/Medicion",
+  "mapeo_variables_path": "config/mapeo_variables.json",
+  "mqtt": {
+    "server": "localhost",
+    "port": 1883
+  }
+}
